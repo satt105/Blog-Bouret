@@ -1,0 +1,45 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://satt105.github.io/Blog-Bouret" resolutions="1x" timestamp="1605289091914">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="4090309000" ref="index"/>
+    <file name="les-articles.css" crc="93843747" ref="les-articles"/>
+    <file name="nous-contacter.css" crc="4073049889" ref="nous-contacter"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="museconfig.js" crc="168988563" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>index:index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="phone>index:index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="phone>index:index"/>
+    <file name="touchswipe.js" crc="404375771" ref="phone>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+  </folder>
+  <folder name="images">
+    <file name="fond_jaune.jpg" crc="111695479" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="20200919_172006.jpg" crc="3931692078" seo="true" ref="phone>index:index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index"/>
+    <file name="20200919_172008.jpg" crc="505914260" seo="true" ref="phone>index:index"/>
+    <file name="20200919_172026.jpg" crc="3951373191" seo="true" ref="phone>index:index"/>
+    <file name="20200919_172047.jpg" crc="124208184" seo="true" ref="phone>index:index"/>
+    <file name="20200919_172056.jpg" crc="279814021" seo="true" ref="phone>index:index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="nous-contacter.css" crc="195954654" ref="phone>nous-contacter"/>
+      <file name="index.css" crc="501407674" ref="phone>index"/>
+      <file name="les-articles.css" crc="4028008109" ref="phone>les-articles"/>
+    </folder>
+    <file name="index.html" crc="4102342258" seo="true" mt="1605288967866" redirect="true"/>
+    <file name="les-articles.html" crc="422325796" seo="true" mt="1605289043870" redirect="true"/>
+    <file name="nous-contacter.html" crc="4195046525" seo="true" mt="1605288898117" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="461481990" seo="true" mt="1605288550704" redirect="true"/>
+  <file name="les-articles.html" crc="4065317617" seo="true" mt="1605288550894" redirect="true"/>
+  <file name="nous-contacter.html" crc="307562472" seo="true" mt="1605288551059" redirect="true"/>
+</manifest>
