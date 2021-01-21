@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://satt105.github.io/Blog-Bouret" resolutions="1x" timestamp="1611251805822">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://satt105.github.io/Blog-Bouret" resolutions="1x" timestamp="1611252382158">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="3774629193" ref="index"/>
@@ -58,7 +58,7 @@
     <file name="20200919_1705442.jpg" crc="3798014120" seo="true" ref="les-articles"/>
     <file name="20200919_171134-crop-u28472.jpg" crc="4016206334" ref="les-articles"/>
     <file name="20200919_171544-crop-u2841.jpg" crc="403227487" ref="les-articles"/>
-    <file name="20201023_175125-crop-u28552.jpg" crc="4129757840" ref="les-articles"/>
+    <file name="20201023_175125-crop-u28552.jpg" crc="3865252703" ref="les-articles"/>
     <file name="20201024_085713.jpg" crc="3905977519" seo="true" ref="les-articles"/>
     <file name="20201024_095313.jpg" crc="3876862894" seo="true" ref="les-articles"/>
     <file name="20201024_155829.jpg" crc="3792553955" seo="true" ref="les-articles"/>
@@ -69,15 +69,15 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="les-articles.css" crc="57584596" ref="phone>les-articles"/>
+      <file name="les-articles.css" crc="3923505247" ref="phone>les-articles"/>
       <file name="index.css" crc="4010662351" ref="phone>index"/>
       <file name="nous-contacter.css" crc="4270397123" ref="phone>nous-contacter"/>
     </folder>
     <file name="index.html" crc="4188584086" seo="true" mt="1611250339128" redirect="true"/>
-    <file name="les-articles.html" crc="3973146823" seo="true" mt="1611251668536" redirect="true"/>
+    <file name="les-articles.html" crc="193304581" seo="true" mt="1611252311319" redirect="true"/>
     <file name="nous-contacter.html" crc="187835052" seo="true" mt="1611250480603" redirect="true"/>
   </folder>
   <file name="index.html" crc="223302216" seo="true" mt="1611250243753" redirect="true"/>
-  <file name="les-articles.html" crc="254862315" seo="true" mt="1611251606523" redirect="true"/>
+  <file name="les-articles.html" crc="510100762" seo="true" mt="1611251606523" redirect="true"/>
   <file name="nous-contacter.html" crc="280044572" seo="true" mt="1609512542369" redirect="true"/>
 </manifest>
