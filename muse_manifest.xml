@@ -1,53 +1,83 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://satt105.github.io/Blog-Bouret" resolutions="1x" timestamp="1605375646654">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="https://satt105.github.io/Blog-Bouret" resolutions="1x" timestamp="1611251805822">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="nous-contacter.css" crc="3961045798" ref="nous-contacter"/>
-    <file name="index.css" crc="376452703" ref="index"/>
-    <file name="les-articles.css" crc="3881312558" ref="les-articles"/>
+    <file name="index.css" crc="3774629193" ref="index"/>
+    <file name="les-articles.css" crc="368932771" ref="les-articles"/>
+    <file name="nous-contacter.css" crc="201599710" ref="nous-contacter"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:les-articles:nous-contacter"/>
-    <file name="museutils.js" crc="163421577" ref="index:les-articles:nous-contacter"/>
-    <file name="whatinput.js" crc="86476730" ref="index:les-articles:nous-contacter"/>
-    <file name="museconfig.js" crc="168988563" ref="index:les-articles:nous-contacter"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:les-articles:nous-contacter"/>
-    <file name="webpro.js" crc="3848665353" ref="index:les-articles"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index:les-articles"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index:les-articles"/>
-    <file name="touchswipe.js" crc="404375771" ref="index:les-articles"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:les-articles:nous-contacter"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:les-articles:nous-contacter"/>
-    <file name="require.js" crc="244322403" ref="index:les-articles:nous-contacter"/>
-    <file name="musewpdisclosure.js" crc="4275188064" ref="les-articles"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="museconfig.js" crc="168988563" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="webpro.js" crc="3848665353" ref="phone>index:phone>les-articles:index:les-articles"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="phone>index:phone>les-articles:index:les-articles"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="phone>index:phone>les-articles:index:les-articles"/>
+    <file name="touchswipe.js" crc="404375771" ref="phone>index:phone>les-articles:index:les-articles"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="require.js" crc="244322403" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="phone>les-articles:les-articles"/>
   </folder>
   <folder name="images">
-    <file name="fond_jaune.jpg" crc="111695479" ref="index:les-articles:nous-contacter"/>
+    <file name="fond_jaune.jpg" crc="111695479" ref="phone>index:phone>les-articles:phone>nous-contacter:index:les-articles:nous-contacter"/>
+    <file name="20200919_172006463x219.jpg" crc="413477171" seo="true" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>les-articles:index:les-articles"/>
+    <file name="20200919_172008463x219.jpg" crc="4016683849" seo="true" ref="phone>index"/>
+    <file name="20200919_172026463x219.jpg" crc="3813797021" seo="true" ref="phone>index"/>
+    <file name="20200919_172047463x219.jpg" crc="3954799862" seo="true" ref="phone>index"/>
+    <file name="20200919_172056463x219.jpg" crc="224971877" seo="true" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>les-articles:index:les-articles"/>
+    <file name="20200919_170420-crop-u2851.jpg" crc="4228634702" seo="true" ref="phone>les-articles"/>
+    <file name="20200919_170442-crop-u2845.jpg" crc="187558354" seo="true" ref="phone>les-articles"/>
+    <file name="20200919_170452-crop-u2839.jpg" crc="231102853" seo="true" ref="phone>les-articles"/>
+    <file name="20200919_170512.jpg" crc="3778364636" seo="true" ref="phone>les-articles"/>
+    <file name="20200919_170521.jpg" crc="249679346" seo="true" ref="phone>les-articles"/>
+    <file name="20200919_170532.jpg" crc="498312545" seo="true" ref="phone>les-articles"/>
+    <file name="20200919_170544.jpg" crc="62852415" seo="true" ref="phone>les-articles"/>
+    <file name="20200919_171134-crop-u2847.jpg" crc="210742181" seo="true" ref="phone>les-articles"/>
+    <file name="20201023_175125-crop-u2855.jpg" crc="4002785301" seo="true" ref="phone>les-articles"/>
+    <file name="20201024_085713-crop-u7448.jpg" crc="3863077945" ref="phone>les-articles"/>
+    <file name="20201024_095313-crop-u7563.jpg" crc="3927446964" ref="phone>les-articles"/>
+    <file name="20201024_155829-crop-u7589.jpg" crc="3862743866" ref="phone>les-articles"/>
+    <file name="20201023_175219.jpg" crc="417225640" seo="true" ref="phone>les-articles"/>
+    <file name="20201031_172908-crop-u5756.jpg" crc="376755633" seo="true" ref="phone>les-articles"/>
+    <file name="20201031_172920.jpg" crc="3849370610" seo="true" ref="phone>les-articles"/>
     <file name="20200919_172006.jpg" crc="3931692078" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:les-articles"/>
     <file name="20200919_172008.jpg" crc="505914260" seo="true" ref="index"/>
     <file name="20200919_172026.jpg" crc="3951373191" seo="true" ref="index"/>
     <file name="20200919_172047.jpg" crc="124208184" seo="true" ref="index"/>
     <file name="20200919_172056.jpg" crc="279814021" seo="true" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:les-articles"/>
-    <file name="20200919_170420-crop-u2851.jpg" crc="4181854474" ref="les-articles"/>
-    <file name="20200919_170442-crop-u2845.jpg" crc="3786735056" ref="les-articles"/>
-    <file name="20200919_170452-crop-u2839.jpg" crc="527208107" ref="les-articles"/>
-    <file name="20200919_170512.jpg" crc="33423088" seo="true" ref="les-articles"/>
-    <file name="20200919_170521.jpg" crc="3778018905" seo="true" ref="les-articles"/>
-    <file name="20200919_170532.jpg" crc="371307992" seo="true" ref="les-articles"/>
-    <file name="20200919_170544.jpg" crc="3798014120" seo="true" ref="les-articles"/>
-    <file name="20200919_171134-crop-u2847.jpg" crc="4016206334" ref="les-articles"/>
+    <file name="20200919_170420-crop-u28512.jpg" crc="4181854474" ref="les-articles"/>
+    <file name="20200919_170442-crop-u28452.jpg" crc="3786735056" ref="les-articles"/>
+    <file name="20200919_170452-crop-u28392.jpg" crc="527208107" ref="les-articles"/>
+    <file name="20200919_1705122.jpg" crc="33423088" seo="true" ref="les-articles"/>
+    <file name="20200919_1705212.jpg" crc="3778018905" seo="true" ref="les-articles"/>
+    <file name="20200919_1705322.jpg" crc="371307992" seo="true" ref="les-articles"/>
+    <file name="20200919_1705442.jpg" crc="3798014120" seo="true" ref="les-articles"/>
+    <file name="20200919_171134-crop-u28472.jpg" crc="4016206334" ref="les-articles"/>
     <file name="20200919_171544-crop-u2841.jpg" crc="403227487" ref="les-articles"/>
-    <file name="20201023_175125-crop-u2855.jpg" crc="3865252703" ref="les-articles"/>
+    <file name="20201023_175125-crop-u28552.jpg" crc="4129757840" ref="les-articles"/>
     <file name="20201024_085713.jpg" crc="3905977519" seo="true" ref="les-articles"/>
     <file name="20201024_095313.jpg" crc="3876862894" seo="true" ref="les-articles"/>
     <file name="20201024_155829.jpg" crc="3792553955" seo="true" ref="les-articles"/>
-    <file name="20201023_175219.jpg" crc="532887277" seo="true" ref="les-articles"/>
+    <file name="20201023_1752192.jpg" crc="532887277" seo="true" ref="les-articles"/>
     <file name="20201023_175233.jpg" crc="3857232014" seo="true" ref="les-articles"/>
-    <file name="20201031_172908-crop-u5756.jpg" crc="4220020309" ref="les-articles"/>
-    <file name="20201031_172920.jpg" crc="4210749194" seo="true" ref="les-articles"/>
+    <file name="20201031_172908-crop-u57562.jpg" crc="4220020309" ref="les-articles"/>
+    <file name="20201031_1729202.jpg" crc="4210749194" seo="true" ref="les-articles"/>
   </folder>
-  <file name="index.html" crc="155058605" seo="true" mt="1605373369637" redirect="true"/>
-  <file name="les-articles.html" crc="426381942" seo="true" mt="1605374145482" redirect="true"/>
-  <file name="nous-contacter.html" crc="3840040753" seo="true" mt="1605375591155" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="les-articles.css" crc="57584596" ref="phone>les-articles"/>
+      <file name="index.css" crc="4010662351" ref="phone>index"/>
+      <file name="nous-contacter.css" crc="4270397123" ref="phone>nous-contacter"/>
+    </folder>
+    <file name="index.html" crc="4188584086" seo="true" mt="1611250339128" redirect="true"/>
+    <file name="les-articles.html" crc="3973146823" seo="true" mt="1611251668536" redirect="true"/>
+    <file name="nous-contacter.html" crc="187835052" seo="true" mt="1611250480603" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="223302216" seo="true" mt="1611250243753" redirect="true"/>
+  <file name="les-articles.html" crc="254862315" seo="true" mt="1611251606523" redirect="true"/>
+  <file name="nous-contacter.html" crc="280044572" seo="true" mt="1609512542369" redirect="true"/>
 </manifest>

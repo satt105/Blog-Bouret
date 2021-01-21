@@ -2,109 +2,214 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://satt105.github.io/Blog-Bouret/index.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://satt105.github.io/Blog-Bouret/nous-contacter.html</loc>
-    <lastmod>2020-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://satt105.github.io/Blog-Bouret/phone/index.html"/>
   </url>
   <url>
     <loc>https://satt105.github.io/Blog-Bouret/les-articles.html</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://satt105.github.io/Blog-Bouret/phone/les-articles.html"/>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/nous-contacter.html</loc>
+    <lastmod>2021-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="https://satt105.github.io/Blog-Bouret/phone/nous-contacter.html"/>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172026463x219.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172047.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172056463x219.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172056.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_170420-crop-u2851.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_170442-crop-u2845.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_170452-crop-u2839.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://satt105.github.io/Blog-Bouret/images/20200919_170512.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://satt105.github.io/Blog-Bouret/images/20200919_170521.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://satt105.github.io/Blog-Bouret/images/20200919_170532.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172006.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172026.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20201024_095313.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20201024_155829.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20201023_175219.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20201023_175233.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20201031_172920.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172008.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://satt105.github.io/Blog-Bouret/images/20200919_170544.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_171134-crop-u2847.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20201023_175125-crop-u2855.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20201023_175219.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20201031_172908-crop-u5756.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172008463x219.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172047463x219.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172008.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172026.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172047.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172056.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_1705122.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_1705212.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_1705322.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_1705442.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://satt105.github.io/Blog-Bouret/images/20201024_085713.jpg</loc>
-    <lastmod>2020-11-14</lastmod>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20201024_095313.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20201024_155829.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20201023_1752192.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20201023_175233.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20201031_1729202.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20201031_172920.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172006463x219.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://satt105.github.io/Blog-Bouret/images/20200919_172006.jpg</loc>
+    <lastmod>2021-01-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
